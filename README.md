@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ankitpipaliya9007
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Laravel and PHP Frameworks
 - 📫 reach me on my email- mrakkipipaliya10@gmail.com
 
 <!---
